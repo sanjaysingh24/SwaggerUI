@@ -5,7 +5,7 @@
     "description": "Description",
     "version": "1.0.0"
   },
-  "host": "https://swaggerui-lfxb.onrender.com/api",
+  "host": "swaggerui-lfxb.onrender.com/api",
   "basePath": "/",
   "schemes": [
     "https"
