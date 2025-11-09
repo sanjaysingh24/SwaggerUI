@@ -3,7 +3,7 @@ import mongoose from "mongoose";
 
 export const connectDb = async()=>{
     try{
-     const conn = await mongoose.connect('mongodb://localhost:27017/swaggerdb')
+     const conn = await mongoose.connect('mongodb+srv://sanjay:sanjay@cluster0.rkqiztu.mongodb.net/swaggerdb')
      if(conn){
         console.log("DB connected successfully");
 
