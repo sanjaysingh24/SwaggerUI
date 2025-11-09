@@ -4,7 +4,7 @@ const doc = {
     title: 'My API',
     description: 'Description'
   },
-  host: 'localhost:3000/api'
+  host: 'https://swaggerui-lfxb.onrender.com/api'
 };
 
 const outputFile = './swagger-output.json';
